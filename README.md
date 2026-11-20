@@ -6,17 +6,18 @@
 <p align="center">
   <a href="mailto:pol.martinez.mena@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pol.martinez.mena%40gmail.com-1f2328?style=flat-square&logo=gmail&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Based%20in-Barcelona-1f2328?style=flat-square&logo=googlemaps&logoColor=white">
-  <a href="https://idlox.es"><img alt="IDLOX" src="https://img.shields.io/badge/Currently%20at-IDLOX-059669?style=flat-square"></a>
+  <a href="https://idlox.es"><img alt="IDLOX" src="https://img.shields.io/badge/Currently%20at-IDLOX-1f2328?style=flat-square"></a>
+  <a href="mailto:pol.martinez.mena@gmail.com"><img alt="Open to freelance" src="https://img.shields.io/badge/Open%20to-freelance%20work-059669?style=flat-square"></a>
 </p>
 
-Software developer based in Barcelona. I work at **[IDLOX](https://idlox.es)**, where I build the company's internal software, and I develop custom web applications for businesses. I care about software that solves concrete operational problems, is reliable in production and is easy for non-technical teams to use. Alongside my work, I study Biotechnology and build tools for biological data analysis.
+Software developer based in Barcelona. I work at **[IDLOX](https://idlox.es)**, where I build the company's internal software, and I take on freelance projects developing custom web applications for businesses. I care about software that solves concrete operational problems, is reliable in production and is easy for non-technical teams to use. Alongside my work, I study Biotechnology and build tools for biological data analysis.
 
 ## Experience
 
 **Software Developer · [IDLOX](https://idlox.es)** — Barcelona
 <br>Design and development of internal software for a building rehabilitation and maintenance company: tools that support day-to-day operations, project management and communication with clients and property managers.
 
-**Software Developer for businesses** — Independent
+**Freelance Software Developer** — Independent · <i>open to new projects</i>
 <br>End-to-end delivery of custom web applications for companies: online booking platforms for healthcare practices, inventory management for hospitality and corporate websites. From requirements to deployment and maintenance, in full-stack TypeScript.
 
 **Biotechnology** — Undergraduate student
@@ -71,4 +72,4 @@ Software developer based in Barcelona. I work at **[IDLOX](https://idlox.es)**, 
 
 ---
 
-<p align="center"><sub>Have a project for your business? <a href="mailto:pol.martinez.mena@gmail.com">Let's talk.</a></sub></p>
+<p align="center"><b>Open to freelance projects.</b> Have a project for your business? <a href="mailto:pol.martinez.mena@gmail.com">Let's talk.</a></p>
