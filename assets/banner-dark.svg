@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Pol Martinez Mena — Full-stack developer and biotechnology student">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#101a26"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <style>
+      .t{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+      .n{font-size:54px;font-weight:700;fill:#f0f6fc;letter-spacing:-1px}
+      .r{font-size:22px;fill:#9198a1}
+      .k{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:15px;fill:#6e7681}
+      .a{animation:p 3.2s ease-in-out infinite}
+      @keyframes p{0%,100%{opacity:.35}50%{opacity:1}}
+      @media (prefers-reduced-motion:reduce){.a{animation:none;opacity:.8}}
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#30363d"/>
+  <text x="72" y="128" class="t n">Pol Martinez Mena</text>
+  <rect x="74" y="150" width="64" height="4" rx="2" fill="url(#acc)"/>
+  <text x="72" y="196" class="t r">Full-stack developer · Biotechnology student</text>
+  <text x="72" y="236" class="k">TypeScript · React · Node.js · Python · Bioinformatics — Barcelona</text>
+  <g transform="translate(860 40)" fill="none" stroke-width="3" stroke-linecap="round">
+    <line class="a" style="animation-delay:0.24s" x1="155.7" y1="16.5" x2="84.3" y2="16.5" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:0.48s" x1="174.3" y1="33.0" x2="65.7" y2="33.0" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:0.72s" x1="166.9" y1="49.5" x2="73.1" y2="49.5" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:0.96s" x1="137.0" y1="66.0" x2="103.0" y2="66.0" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:1.20s" x1="99.0" y1="82.5" x2="141.0" y2="82.5" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:1.44s" x1="71.0" y1="99.0" x2="169.0" y2="99.0" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:1.68s" x1="66.5" y1="115.5" x2="173.5" y2="115.5" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:1.92s" x1="87.7" y1="132.0" x2="152.3" y2="132.0" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:2.16s" x1="124.3" y1="148.5" x2="115.7" y2="148.5" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:2.40s" x1="158.9" y1="165.0" x2="81.1" y2="165.0" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:2.64s" x1="174.8" y1="181.5" x2="65.2" y2="181.5" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:2.88s" x1="164.5" y1="198.0" x2="75.5" y2="198.0" stroke="#30363d" stroke-width="2"/>
+    <line class="a" style="animation-delay:3.12s" x1="132.8" y1="214.5" x2="107.2" y2="214.5" stroke="#30363d" stroke-width="2"/>
+    <polyline points="120.0,0.0 132.8,5.5 145.0,11.0 155.7,16.5 164.5,22.0 170.8,27.5 174.3,33.0 174.8,38.5 172.3,44.0 166.9,49.5 158.9,55.0 148.7,60.5 137.0,66.0 124.3,71.5 111.4,77.0 99.0,82.5 87.7,88.0 78.2,93.5 71.0,99.0 66.5,104.5 65.0,110.0 66.5,115.5 71.0,121.0 78.2,126.5 87.7,132.0 99.0,137.5 111.4,143.0 124.3,148.5 137.0,154.0 148.7,159.5 158.9,165.0 166.9,170.5 172.3,176.0 174.8,181.5 174.3,187.0 170.8,192.5 164.5,198.0 155.7,203.5 145.0,209.0 132.8,214.5 120.0,220.0" stroke="#34d399"/>
+    <polyline points="120.0,0.0 107.2,5.5 95.0,11.0 84.3,16.5 75.5,22.0 69.2,27.5 65.7,33.0 65.2,38.5 67.7,44.0 73.1,49.5 81.1,55.0 91.3,60.5 103.0,66.0 115.7,71.5 128.6,77.0 141.0,82.5 152.3,88.0 161.8,93.5 169.0,99.0 173.5,104.5 175.0,110.0 173.5,115.5 169.0,121.0 161.8,126.5 152.3,132.0 141.0,137.5 128.6,143.0 115.7,148.5 103.0,154.0 91.3,159.5 81.1,165.0 73.1,170.5 67.7,176.0 65.2,181.5 65.7,187.0 69.2,192.5 75.5,198.0 84.3,203.5 95.0,209.0 107.2,214.5 120.0,220.0" stroke="#38bdf8"/>
+  </g>
+</svg>
