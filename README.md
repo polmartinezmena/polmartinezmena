@@ -8,10 +8,10 @@
 
 ## Proyectos destacados
 
-### 🧭 [Rumbo](https://github.com/polmartinezmena-byte/rumbo) · [▶ Demo](https://polmartinezmena-byte.github.io/rumbo/)
+### 🧭 [Rumbo](https://github.com/polmartinezmena/rumbo) · [▶ Demo](https://polmartinezmena.github.io/rumbo/)
 Navegador GPS que funciona **100 % sin conexión**: rutas calculadas en el dispositivo (A\* en un Web Worker), guiado por voz, **ruta segura ante inundaciones**, radares y un SOS de un toque. PWA sin dependencias, sin cuenta y sin rastreo.
 
-### 🧬 [DNA Sequence Analyzer](https://github.com/polmartinezmena-byte/dna-sequence-analyzer)
+### 🧬 [DNA Sequence Analyzer](https://github.com/polmartinezmena/dna-sequence-analyzer)
 Herramienta en Python para analizar secuencias de ADN: lectura de FASTA, contenido en GC, traducción, búsqueda de ORFs y BLAST.
 
 ### 💼 Trabajo para clientes
