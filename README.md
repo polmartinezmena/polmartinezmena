@@ -2,7 +2,7 @@
 
 **Desarrollador full-stack en Barcelona.** Diseño y construyo aplicaciones web a medida para negocios: reservas online, paneles de gestión y PWAs que funcionan incluso sin conexión. Me interesa especialmente la bioinformática y el software que resuelve problemas reales.
 
-- 🛠️ Ahora mismo: apps de reservas y gestión para clínicas y negocios locales con **Ather Studio**
+- 🛠️ Ahora mismo: apps de reservas y gestión para clínicas y negocios locales
 - 🧬 Explorando: análisis de secuencias y herramientas bioinformáticas en Python
 - 📍 Barcelona · Trabajo en español, catalán e inglés
 
@@ -30,6 +30,6 @@ Aplicaciones de reservas online y webs públicas para centros de salud (psicolog
 
 ## Contacto
 
-📫 [pol.martinez.mena@gmail.com](mailto:pol.martinez.mena@gmail.com) · 🌐 [Ather Studio](https://atherstudio.vercel.app/)
+📫 [pol.martinez.mena@gmail.com](mailto:pol.martinez.mena@gmail.com)
 
 ¿Tienes un proyecto en mente? Escríbeme.
