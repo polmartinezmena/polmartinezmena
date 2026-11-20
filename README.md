@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Pol Martinez Mena — Software Developer at IDLOX" src="assets/banner-light.svg" width="100%">
+  <img alt="Pol Martinez Mena — Full Stack Developer & Agentic AI · Biotechnology @ UAB" src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="mailto:pol.martinez.mena@gmail.com"><img alt="Open to freelance" src="https://img.shields.io/badge/Open%20to-freelance%20work-059669?style=flat-square"></a>
 </p>
 
-Software developer based in Barcelona. I work at **[IDLOX](https://idlox.es)**, where I build the company's internal software, and I take on freelance projects developing custom web applications for businesses. I care about software that solves concrete operational problems, is reliable in production and is easy for non-technical teams to use. Alongside my work, I study Biotechnology and build tools for biological data analysis.
+Software developer based in Barcelona. I work at **[IDLOX](https://idlox.es)**, where I build the company's internal software, and I take on freelance projects developing custom web applications for businesses, increasingly built around AI agents that automate real business workflows. I care about software that solves concrete operational problems, is reliable in production and is easy for non-technical teams to use. Alongside my work, I study Biotechnology at the Universitat Autònoma de Barcelona (UAB).
 
 ## Experience
 
@@ -22,7 +22,7 @@ Software developer based in Barcelona. I work at **[IDLOX](https://idlox.es)**, 
 **Freelance Software Developer** — Independent · <i>open to new projects</i>
 <br>End-to-end delivery of custom web applications for companies: online booking platforms for healthcare practices, inventory management for hospitality and corporate websites. From requirements to deployment and maintenance, in full-stack TypeScript.
 
-**Biotechnology** — Undergraduate student
+**Biotechnology · Universitat Autònoma de Barcelona (UAB)** — Undergraduate student
 <br>Focused on computational biology and bioinformatics.
 
 ## Selected projects
