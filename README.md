@@ -4,6 +4,8 @@
 </picture>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/polmartinezmena/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-polmartinezmena-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/pmartinezz_16"><img alt="X" src="https://img.shields.io/badge/X-@pmartinezz__16-000000?style=flat-square&logo=x&logoColor=white"></a>
   <a href="mailto:pol.martinez.mena@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pol.martinez.mena%40gmail.com-1f2328?style=flat-square&logo=gmail&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Based%20in-Barcelona-1f2328?style=flat-square&logo=googlemaps&logoColor=white">
   <a href="https://idlox.es"><img alt="IDLOX" src="https://img.shields.io/badge/Currently%20at-IDLOX-1f2328?style=flat-square"></a>
