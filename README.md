@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Pol Martinez Mena — Full Stack Developer & Agentic AI · Biotechnology @ UAB" src="assets/banner-light.svg" width="100%">
-</picture>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/polmartinezmena/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-polmartinezmena-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
